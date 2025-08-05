@@ -1,21 +1,22 @@
 # 💤 LazyVim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+My NeoVim configuration for [LazyVim](https://github.com/LazyVim/LazyVim) ([official documentation](https://lazyvim.github.io/installation)).
 
 ## Installation
 
 - Make a backup of your current Neovim files:
 
-    ```bash
-    # required
-    mv ~/.config/nvim{,.bak}
+    - Required
+        ```bash
+        mv ~/.config/nvim{,.bak}
+        ```
     
-    # optional but recommended
-    mv ~/.local/share/nvim{,.bak}
-    mv ~/.local/state/nvim{,.bak}
-    mv ~/.cache/nvim{,.bak}
-    ```
+    - Optional but recommended
+        ```bash
+        mv ~/.local/share/nvim{,.bak}
+        mv ~/.local/state/nvim{,.bak}
+        mv ~/.cache/nvim{,.bak}
+        ```
 
 - Clone the starter:
 
